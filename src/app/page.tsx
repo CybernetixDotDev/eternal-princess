@@ -4,7 +4,7 @@ export default function HomePage() {
   return (
     <main className="mx-auto max-w-6xl px-4 py-6 md:px-6">
       <Hero
-        imageSrc="/eternal/princess3.jpg"
+        imageSrc="/eternal/princess3.png"
         title="Welcome, Beautiful Soul ✨"
         subtitle="A soft place to breathe, become, and belong."
         primaryCta={{ label: "Enter the Garden 🌸", href: "/garden" }}
