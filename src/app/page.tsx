@@ -16,7 +16,7 @@ export default function HomePage() {
         <h2 className="text-3xl md:text-4xl font-semibold tracking-tight">
           You don’t have to perform here.
         </h2>
-        <p className="text-white/70 text-lg leading-relaxed">
+        <p className="text-plum/70 text-lg leading-relaxed">
           Eternal Princess is a sanctuary for softness, courage, and truth.
         </p>
       </section>
